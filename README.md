@@ -1,4 +1,14 @@
-## Hi there 👋
+## 김민준 👋
+
+# Projects
+- 팀프로젝트
+  - 온라인 서점 사이트 
+  -  https://github.com/nhnacademy-be7-55G-COM
+    
+- 개인프로젝트
+  - 그룹별 일정공유 및 채팅 사이트 (진행중)
+  - 현재 일정공유기능 구현완료, 채팅 기능 구현예정
+  - https://github.com/sharingCalender
 
 <!--
 **desworld/desworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
