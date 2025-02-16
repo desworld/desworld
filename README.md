@@ -1,7 +1,7 @@
 ## 김민준 👋
 
 # My Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <img src"https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 
 # Projects
