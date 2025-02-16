@@ -1,7 +1,8 @@
 ## 김민준 👋
 
 # My Skills
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 # Projects
 - 팀프로젝트
