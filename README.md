@@ -22,9 +22,9 @@
   - 온라인 서점 사이트 
   -  https://github.com/nhnacademy-be7-55G-COM
     
-- 개인프로젝트 (진행중)
+- 개인프로젝트
   - 그룹별 일정공유 및 채팅 사이트 
-  - 현재 일정공유기능 구현완료, 채팅 기능 구현예정
+  - aws 를 이용해 배포완료
   - https://github.com/sharingCalender
 
 <!--
